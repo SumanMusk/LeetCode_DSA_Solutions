@@ -10,8 +10,3 @@ class Solution {
         return -1;
     }
 }
-/*if(!map.containsKey(s.charAt(i)))
-    map.put(s.charAt(i), 0);
-map.put(s.charAt(i), map.get(s.charAt(i))+1);*/
-// we can reduce this lines of code by just using a HashMap method getOrDefault()
-// map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
