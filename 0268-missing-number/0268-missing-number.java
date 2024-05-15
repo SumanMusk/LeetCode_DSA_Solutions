@@ -1,5 +1,17 @@
 class Solution {
     public int missingNumber(int[] nums) {
+        int allXOR=0, numsXOR=0;
+        for(int i=0;i<=nums.length;i++) {
+            if(i < nums.length) 
+                numsXOR = numsXOR ^ nums[i];
+            allXOR = allXOR ^ i;
+        }
+        return allXOR ^ numsXOR;
+    }
+}
+/*
+class Solution {
+    public int missingNumber(int[] nums) {
         Arrays.sort(nums);
         int i = 0;
         while(i<nums.length){
@@ -7,18 +19,6 @@ class Solution {
             i++;
         }
         return i;
-    }
-}
-/*
-class Solution {
-    public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        int chk = 0;
-        for(int i=0;i<nums.length;i++){
-            if(chk != nums[i]) break;
-            else chk++;
-        }
-        return chk;
     }
 }
 */
