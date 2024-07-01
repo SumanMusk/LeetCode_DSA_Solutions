@@ -13,3 +13,10 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0090-subsets-ii) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
