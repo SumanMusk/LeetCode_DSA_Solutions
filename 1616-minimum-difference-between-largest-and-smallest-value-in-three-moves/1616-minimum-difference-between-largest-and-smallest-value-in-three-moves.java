@@ -5,10 +5,7 @@ class Solution {
         Arrays.sort(nums);
         int ans=Integer.MAX_VALUE, i=0, j=nums.length-4;
         for(int x=0;x<4;x++) {
-            if(nums[j]-nums[i] < ans)
-                ans = nums[j]-nums[i];
-            i++;
-            j++;
+            ans = Math.min(ans, nums[j++]-nums[i++]);
         }
         return ans;
     }
