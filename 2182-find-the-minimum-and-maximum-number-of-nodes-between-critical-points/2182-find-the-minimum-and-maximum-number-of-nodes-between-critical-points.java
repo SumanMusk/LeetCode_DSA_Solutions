@@ -7,10 +7,8 @@ class Solution {
         int idx=1, f=0, startingVal=0, minimum=Integer.MAX_VALUE, endingVal=0, prevVal=Integer.MIN_VALUE, currVal=Integer.MIN_VALUE;
         while(nextnode != null) {
             if((curr.val > prev.val && curr.val > nextnode.val) || (curr.val < prev.val && curr.val < nextnode.val)) {
-                if(f == 0) {
+                if(startingVal == 0) 
                     startingVal = idx;
-                    f = 1;
-                }
                 endingVal = idx;
                 currVal = idx;
                 if(prevVal != Integer.MIN_VALUE) 
