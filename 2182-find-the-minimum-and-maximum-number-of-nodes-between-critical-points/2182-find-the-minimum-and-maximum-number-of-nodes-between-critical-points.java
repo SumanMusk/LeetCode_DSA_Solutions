@@ -4,10 +4,10 @@ class Solution {
         if(head.next == null || head.next.next == null)
             return arr;
         ListNode prev=head, curr=head.next, nextnode=head.next.next;
-        int idx=1, f=0, startingVal=0, minimum=Integer.MAX_VALUE, endingVal=0, prevVal=Integer.MIN_VALUE, currVal=Integer.MIN_VALUE;
+        int idx=1, startingVal=Integer.MIN_VALUE, minimum=Integer.MAX_VALUE, endingVal=0, prevVal=Integer.MIN_VALUE, currVal=Integer.MIN_VALUE;
         while(nextnode != null) {
             if((curr.val > prev.val && curr.val > nextnode.val) || (curr.val < prev.val && curr.val < nextnode.val)) {
-                if(startingVal == 0) 
+                if(startingVal == Integer.MIN_VALUE) 
                     startingVal = idx;
                 endingVal = idx;
                 currVal = idx;
@@ -21,7 +21,7 @@ class Solution {
             idx++;
         }
         arr[0] = minimum == Integer.MAX_VALUE ? -1 : minimum;
-        arr[1] = (endingVal - startingVal == 0) ? -1 : endingVal - startingVal;
+        arr[1] = (startingVal == Integer.MIN_VALUE || endingVal - startingVal == 0) ? -1 : endingVal - startingVal;
         return arr;
     }
 }
