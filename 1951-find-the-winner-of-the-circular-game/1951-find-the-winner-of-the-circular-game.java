@@ -5,8 +5,8 @@ class Solution {
             que.add(i);
         while(que.size() > 1) {
             for(int i=1;i<=k-1;i++) {
-                int temp = que.poll();
-                que.add(temp);
+                // int temp = que.poll();
+                que.add(que.poll());
             }
             que.poll();
         }
