@@ -7,11 +7,6 @@ class Solution {
             else if(str.equals("../") && !stk.isEmpty()) 
                 stk.pop();
         }
-        int c=0;
-        while(!stk.isEmpty()) {
-            stk.pop();
-            c++;
-        }
-        return c;
+        return stk.size();
     }
 }
