@@ -7,7 +7,6 @@ class Solution {
         cNum = (x+y)-cNum;
         chkStr = (chkStr.equals("ba")) ? "ab" : "ba";
         s = new StringBuilder(stk.stream().map(String::valueOf).collect(Collectors.joining())).toString();
-        stk.clear();
         return res + helper(s, stk, chkStr, cNum, 0);
     }
     public int helper(String s, Stack<Character> stk, String chkStr, int x, int res) {
