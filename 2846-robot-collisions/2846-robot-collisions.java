@@ -5,7 +5,6 @@ class Solution {
             map.put(positions[i], Integer.toString(i) + Character.toString(directions.charAt(i)));
         Arrays.sort(positions);
         Stack<String> stk = new Stack<>();
-        // stk.push(map.get(positions[0]));
         for(int i=0;i<positions.length;i++) {
             if(!stk.isEmpty()) {
                 char currDir = map.get(positions[i]).charAt(map.get(positions[i]).length()-1);
@@ -29,7 +28,6 @@ class Solution {
                             prevHealth = Integer.parseInt(stk.peek().substring(0, stk.peek().length()-1));                            
                         }
                         else if(healths[currHealth] < healths[prevHealth] && currDir == 'L' && prevDir == 'R'){
-                            // healths[Integer.parseInt(stk.peek().substring(0, stk.peek().length()-1))]--;
                             healths[prevHealth]--;
                             healths[currHealth] = 0;
                         }
