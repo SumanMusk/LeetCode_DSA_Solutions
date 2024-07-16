@@ -106,9 +106,15 @@
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
