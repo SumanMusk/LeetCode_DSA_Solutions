@@ -11,10 +11,6 @@ class Solution {
         List<Integer> rightList;
         leftList = (root.left == null) ? new ArrayList<>() : dfs(root.left, distance);
         rightList = (root.right == null) ? new ArrayList<>() : dfs(root.right, distance);
-        if(leftList.size() == 0)
-            return increment(rightList);
-        if(rightList.size() == 0)
-            return increment(leftList);
         if(leftList.size() <= rightList.size())
             chkDist(leftList, rightList, distance);
         if(leftList.size() > rightList.size())
@@ -22,6 +18,8 @@ class Solution {
         return increment(leftList, rightList);
     }
     public void chkDist(List<Integer> small, List<Integer> big, int dist) {
+        if(small.size() == 0 || big.size() == 0)
+            return;
         for(int i: small)
             for(int j: big)
                 if(i+j <= dist)
