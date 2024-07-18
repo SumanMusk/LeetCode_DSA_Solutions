@@ -23,11 +23,6 @@ class Solution {
                 if(i+j <= dist)
                     count++;
     }
-    public List<Integer> increment(List<Integer> ls) {
-        for(int i=0;i<ls.size();i++)
-            ls.set(i, ls.get(i)+1);
-        return ls;
-    }
     public List<Integer> increment(List<Integer> one, List<Integer> two) {
         List<Integer> res = new ArrayList<>();
         for(int i: one)
