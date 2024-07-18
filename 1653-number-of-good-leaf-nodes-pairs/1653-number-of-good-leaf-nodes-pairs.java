@@ -7,13 +7,11 @@ class Solution {
     public List<Integer> dfs(TreeNode root, int distance) {
         if(root.left == null && root.right == null) 
             return new ArrayList<>(Arrays.asList(1));
-        List<Integer> leftList;
-        List<Integer> rightList;
-        leftList = (root.left == null) ? new ArrayList<>() : dfs(root.left, distance);
-        rightList = (root.right == null) ? new ArrayList<>() : dfs(root.right, distance);
+        List<Integer> leftList = (root.left == null) ? new ArrayList<>() : dfs(root.left, distance);
+        List<Integer> rightList = (root.right == null) ? new ArrayList<>() : dfs(root.right, distance);
         if(leftList.size() <= rightList.size())
             chkDist(leftList, rightList, distance);
-        if(leftList.size() > rightList.size())
+        else
             chkDist(rightList, leftList, distance);
         return increment(leftList, rightList);
     }
