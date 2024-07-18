@@ -9,19 +9,11 @@ class Solution {
             return new ArrayList<>(Arrays.asList(1));
         List<Integer> leftList = (root.left == null) ? new ArrayList<>() : dfs(root.left, distance);
         List<Integer> rightList = (root.right == null) ? new ArrayList<>() : dfs(root.right, distance);
-        if(leftList.size() <= rightList.size())
-            chkDist(leftList, rightList, distance);
-        else
-            chkDist(rightList, leftList, distance);
-        return increment(leftList, rightList);
-    }
-    public void chkDist(List<Integer> small, List<Integer> big, int dist) {
-        if(small.size() == 0 || big.size() == 0)
-            return;
-        for(int i: small)
-            for(int j: big)
-                if(i+j <= dist)
+        for(int i: leftList)
+            for(int j: rightList)
+                if(i+j <= distance)
                     count++;
+        return increment(leftList, rightList);
     }
     public List<Integer> increment(List<Integer> one, List<Integer> two) {
         List<Integer> res = new ArrayList<>();
