@@ -13,14 +13,9 @@ class Solution {
             for(int j: rightList)
                 if(i+j <= distance)
                     count++;
-        return increment(leftList, rightList);
-    }
-    public List<Integer> increment(List<Integer> one, List<Integer> two) {
-        List<Integer> res = new ArrayList<>();
-        for(int i: one)
-            res.add(i+1);
-        for(int i: two)
-            res.add(i+1);
-        return res;
+        leftList.addAll(rightList);
+        for(int i=0;i<leftList.size();i++)
+            leftList.set(i, leftList.get(i)+1);
+        return leftList;
     }
 }
