@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
