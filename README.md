@@ -131,6 +131,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -149,4 +150,16 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0136-single-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
+## Graph
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
