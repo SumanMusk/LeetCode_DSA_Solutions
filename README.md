@@ -30,6 +30,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2139-detect-squares](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -146,6 +147,7 @@
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,8 +160,10 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
