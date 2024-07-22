@@ -1,3 +1,5 @@
+// Solved using "Kahn's Algorithm (Topological Sort using Kahn's Algorithm)"
+// If topological sort + Cycle check, then Kahn's Algo
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         Map<Integer, List<Integer>> adjLs = new HashMap<>();
