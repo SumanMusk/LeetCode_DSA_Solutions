@@ -48,17 +48,4 @@ class Solution {
             return ls;
         return new ArrayList<>();
     }
-    public boolean isCyclic(int i, List<List<Integer>> ls, Set<Integer> visited, Stack<Integer> stk) {
-        if(visited.contains(i))
-            return false;
-        visited.add(i);
-        for(int x=0;x<ls.get(i).size();x++) {
-            if(!isCyclic(ls.get(i).get(x), ls, visited, stk))
-                return false;
-        }
-        visited.remove(i);
-        if(!stk.contains(i))
-            stk.push(i);
-        return true;
-    }
 }
