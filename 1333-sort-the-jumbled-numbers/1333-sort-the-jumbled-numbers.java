@@ -3,19 +3,16 @@ class Solution {
         Map<Integer, Integer[]> map = new HashMap<>();
         for(int i=0;i<nums.length;i++) {
             int num = nums[i];
-            Stack<Integer> stk = new Stack<>();
+            StringBuilder str = new StringBuilder();
             if(num != 0) {
                 while(num != 0) {
-                    stk.push(mapping[num%10]);
+                    str.append(mapping[num%10]);
                     num /= 10;
                 }
             }
             else
-                stk.push(mapping[num]);
-            int res=0;
-            while(!stk.isEmpty()) 
-                res = res*10 + stk.pop();            
-            map.put(nums[i], new Integer[]{res, i});
+                str.append(mapping[num]);
+            map.put(nums[i], new Integer[]{Integer.parseInt(str.reverse().toString()), i});
         }
         Integer arr[] = new Integer[nums.length];
         for(int i=0;i<nums.length;i++) 
