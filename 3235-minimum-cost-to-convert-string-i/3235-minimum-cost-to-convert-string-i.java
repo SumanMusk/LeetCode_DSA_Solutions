@@ -12,22 +12,13 @@ class Solution {
                 set.add(source.charAt(i));
             }
         }
-        for (int i = 0; i < source.length(); i++) {
+        for(int i=0;i<source.length();i++) {
             char src = source.charAt(i);
             char dst = target.charAt(i);
-            if (!map.get(src).containsKey(dst)) {
+            if(!map.get(src).containsKey(dst)) 
                 return -1;
-            }
             res += map.get(src).get(dst);
         }
-        /*for(int i=0;i<source.length();i++) {
-            if(source.charAt(i) != target.charAt(i)) {
-                Map<Character, Long> map = dijkstra(source.charAt(i), target.charAt(i), adjLs);
-                if(!map.containsKey(target.charAt(i)))
-                    return -1;
-                res += map.get(target.charAt(i));
-            }
-        }*/
         return res;
     }
     public Map<Character, Long> dijkstra(char src, char des, Map<Character, List<Pair<Character, Long>>> adjLs) {
