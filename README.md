@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1720-crawler-log-folder) |
@@ -214,6 +216,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1511-count-number-of-teams) |
