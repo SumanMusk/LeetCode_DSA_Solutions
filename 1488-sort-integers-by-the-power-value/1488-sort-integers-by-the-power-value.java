@@ -1,7 +1,7 @@
 class Solution {
     public int getKth(int lo, int hi, int k) {
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(1, 0);
+        Map<Integer, Integer> dp = new HashMap<>();
+        dp.put(1, 0);
         int arrCount=0;
         Integer arr[] = new Integer[hi-lo+1];
         for(int i=lo;i<=hi;i++) {
@@ -11,8 +11,8 @@ class Solution {
             Queue<Integer> que = new LinkedList<>();
             while(val != 1) {
                 que.add(val);
-                if(map.containsKey(val)) {
-                    c += map.get(val);
+                if(dp.containsKey(val)) {
+                    c += dp.get(val);
                     break;
                 }
                 if(val % 2 == 0)
@@ -23,13 +23,13 @@ class Solution {
             }
             while(c > 0) {
                 int curr = que.poll();
-                if(map.containsKey(curr))
+                if(dp.containsKey(curr))
                     break;
-                map.put(curr, c);
+                dp.put(curr, c);
                 c--;
             }
         }
-        Arrays.sort(arr, (a,b) -> map.get(a)-map.get(b));
+        Arrays.sort(arr, (a,b) -> dp.get(a)-dp.get(b));
         return arr[k-1];
     }
 }
