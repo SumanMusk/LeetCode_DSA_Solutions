@@ -69,6 +69,7 @@
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1488-sort-integers-by-the-power-value](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2502-sort-the-people) |
@@ -227,6 +228,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1196-filling-bookcase-shelves](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1511-count-number-of-teams](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
@@ -247,4 +249,5 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
+| [1488-sort-integers-by-the-power-value](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 <!---LeetCode Topics End-->
