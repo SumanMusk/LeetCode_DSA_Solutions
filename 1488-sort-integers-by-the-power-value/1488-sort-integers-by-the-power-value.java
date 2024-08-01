@@ -3,7 +3,7 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
         map.put(1, 0);
         int arrCount=0;
-        Integer arr[] = new Integer[(hi-lo)+1];
+        Integer arr[] = new Integer[hi-lo+1];
         for(int i=lo;i<=hi;i++) {
             int val = i;
             int c=0;
