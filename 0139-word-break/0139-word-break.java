@@ -1,4 +1,4 @@
-// Recursion
+// Recursion + Memorization = DP - Top-Down Approach
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         boolean dp[] = new boolean[s.length()+1];
@@ -11,17 +11,6 @@ class Solution {
             }
         }
         return dp[s.length()];
-    }
-    public boolean solve(String s, List<String> ls) {
-        if(s.equals(""))
-            return true;
-        
-        for(int i=1;i<=s.length();i++) 
-            for(String word: ls)
-                if(s.substring(0, i).equals(word))
-                    if(solve(s.substring(i, s.length()), ls))
-                        return true;
-        return false;
     }
 }
 /*
@@ -42,7 +31,7 @@ class Solution {
     }
 }
 
-// Pure DP
+// Bottom-UP DP
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         boolean dp[] = new boolean[s.length()+1];
