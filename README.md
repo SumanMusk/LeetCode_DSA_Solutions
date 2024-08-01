@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0948-sort-an-array) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -106,6 +108,7 @@
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -219,6 +222,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1196-filling-bookcase-shelves](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -235,4 +239,12 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1511-count-number-of-teams) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
