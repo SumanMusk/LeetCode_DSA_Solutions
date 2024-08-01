@@ -8,9 +8,9 @@ class Solution {
             int val = i;
             int c=0;
             arr[arrCount++] = val;
-            
+            Queue<Integer> que = new LinkedList<>();
             while(val != 1) {
-                
+                que.add(val);
                 if(dp.containsKey(val)) {
                     c += dp.get(val);
                     break;
@@ -21,7 +21,13 @@ class Solution {
                     val = (val*3)+1;
                 c++;
             }
-            dp.put(i, c);
+            while(c > 0) {
+                int curr = que.poll();
+                if(dp.containsKey(curr))
+                    break;
+                dp.put(curr, c);
+                c--;
+            }
         }
         Arrays.sort(arr, (a,b) -> dp.get(a)-dp.get(b));
         return arr[k-1];
