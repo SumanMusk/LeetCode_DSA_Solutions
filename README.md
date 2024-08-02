@@ -36,6 +36,7 @@
 | [1803-average-waiting-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2139-detect-squares](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2139-detect-squares) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2502-sort-the-people) |
@@ -250,4 +251,8 @@
 | ------- |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
