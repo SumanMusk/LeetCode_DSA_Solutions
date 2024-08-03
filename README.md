@@ -100,11 +100,13 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -228,6 +231,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1196-filling-bookcase-shelves](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -253,6 +257,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1488-sort-integers-by-the-power-value](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Sliding Window
 |  |
