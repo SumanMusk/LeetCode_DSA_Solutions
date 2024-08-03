@@ -1,17 +1,9 @@
 class Solution {
+    Map<String, List<Integer>> dp = new HashMap<>();
     public List<Integer> diffWaysToCompute(String expression) {
-        int f=0;
-        for(int i=0;i<expression.length();i++) {
-            if(expression.charAt(i) == '-' || expression.charAt(i) == '*' || expression.charAt(i) == '+') {
-                f=1;
-                break;
-            }
-        }
-        if(f == 0)
-            return new ArrayList<>(Arrays.asList(Integer.parseInt(expression)));
-        return solve(expression, 0);
+        return solve(expression);
     }
-    public List<Integer> solve(String s, int depth) {
+    public List<Integer> solve(String s) {
         int count=0;
         for(int i=0;i<s.length();i++) 
             if(Character.isDigit(s.charAt(i)))        
@@ -20,24 +12,23 @@ class Solution {
             return new ArrayList<>(Arrays.asList(Integer.parseInt(s)));
         int z=0;
         List<Integer> ls = new ArrayList<>();
+        if(dp.containsKey(s)) 
+            return dp.get(s);            
         for(int i=0;i<s.length();i++) {
             char c = s.charAt(i);
             if(c == '-' || c == '*' || c == '+') {
-                List<Integer> leftLs = solve(s.substring(0, i), ++depth);
-                depth--;
-                List<Integer> rightLs = solve(s.substring(i+1, s.length()), ++depth);
-                depth--;                
+                List<Integer> leftLs = solve(s.substring(0, i));
+                List<Integer> rightLs = solve(s.substring(i+1, s.length()));         
                 for(int x: leftLs) {
                     for(int y: rightLs) {
-                        int a = x;
-                        int b = y;
                         if(c == '-')
-                            z = a-b;
+                            z = x-y;
                         if(c == '*')
-                            z = a*b;
+                            z = x*y;
                         if(c == '+')
-                            z = a+b;
+                            z = x+y; 
                         ls.add(z);
+                        dp.put(s, ls);
                     }
                 }                                
             }
