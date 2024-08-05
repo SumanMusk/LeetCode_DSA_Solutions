@@ -176,6 +176,7 @@
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -197,11 +198,13 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -271,4 +274,8 @@
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
