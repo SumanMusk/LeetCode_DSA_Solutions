@@ -11,7 +11,9 @@ class Solution {
             int len = que.size();
             for(int x=0;x<len;x++) {
                 String curr = que.poll();
-                //visited.add(curr);
+                if(visited.contains(curr))
+                    continue;
+                visited.add(curr);
                 if(curr.equals(endWord))
                     return level;
                 for(int i=0;i<curr.length();i++) {
@@ -19,10 +21,8 @@ class Solution {
                         char arr[] = curr.toCharArray();
                         arr[i] = (char)j;
                         String strArr = String.valueOf(arr);
-                        if(set.contains(strArr) && !visited.contains(strArr)) {
+                        if(set.contains(strArr)) 
                             que.add(strArr);
-                            visited.add(strArr);
-                        }
                     }
                 }
             }
