@@ -49,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
@@ -124,6 +125,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
@@ -202,6 +204,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
