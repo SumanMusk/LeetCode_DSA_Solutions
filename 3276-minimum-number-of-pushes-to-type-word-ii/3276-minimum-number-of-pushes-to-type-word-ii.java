@@ -1,3 +1,4 @@
+// Optimizing the code by using a Character Array instead of using an ArrayList(keysLs) to store the Character keys of freqMap and not using ArrayList for checking the range of Keypad, just using a variable currSize and if the value of currSize became same as the Keypad's length, then the currSize resets to 0 and with each element appreance, the currSize incrementaed with one
 class Solution {
     public int minimumPushes(String word) {
         Map<Character, Integer> freqMap = new HashMap<>();
