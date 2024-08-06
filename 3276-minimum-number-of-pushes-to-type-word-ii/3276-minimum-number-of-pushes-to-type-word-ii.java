@@ -12,14 +12,13 @@ class Solution {
                 freqMap.put(letter, freqMap.get(letter)+1);
         }
         Arrays.sort(keysArr, 0, c, (a,b) -> freqMap.get(b)-freqMap.get(a));
-        List<Character> visited = new ArrayList<>();
-        int level=1, res=0, range=8;
+        int level=1, res=0, range=8, currSize=0;
         for(int i=0;i<c;i++) {
-            if(visited.size() == range) {
+            if(currSize == 8) {
                 level++;
-                range += 8;
+                currSize=0;
             }
-            visited.add(keysArr[i]);
+            currSize++;
             res += level * freqMap.get(keysArr[i]);
         }
         return res;
