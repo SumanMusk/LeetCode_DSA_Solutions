@@ -49,7 +49,7 @@ class Solution {
         return ans.charAt(ans.length()-1) == ' ' ? ans.substring(0, ans.length()-1) : ans;
     }
     public List<String> helper(int num, Map<Integer, String> ones_map, Map<Integer, String> tens_map) {
-        // 123 012 005 105 000
+        // types of possible numbers => 123 012 005 105 000
         if(num == 0)
             return new ArrayList<>();
         int last_2_dgts = num % 100;
