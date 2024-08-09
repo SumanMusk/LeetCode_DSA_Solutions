@@ -8,20 +8,18 @@ class Solution {
         return c;
     }
     public boolean helper(int[][] grid, int row, int col) {
-        Set<Integer> set = new HashSet<>();
-        for(int i=row;i<=row+2;i++) {
-            for(int j=col;j<=col+2;j++) {
-                if(grid[i][j] > 0 && grid[i][j] <= 9 && !set.contains(grid[i][j])) 
-                    set.add(grid[i][j]);
-                else
-                    return false;
-            }
-        }
+        Set<Integer> set = new HashSet<>();        
         int c=0;
         // Horizontally(rows)
         for(int i=row;i<=row+2;i++) {
-            for(int j=col;j<=col+2;j++) 
-                c += grid[i][j];
+            for(int j=col;j<=col+2;j++) {
+                if(grid[i][j] > 0 && grid[i][j] <= 9 && !set.contains(grid[i][j])) {
+                    set.add(grid[i][j]);
+                    c += grid[i][j];
+                }
+                else
+                    return false;
+            }
             if(c != 15)
                 return false;
             c=0;
