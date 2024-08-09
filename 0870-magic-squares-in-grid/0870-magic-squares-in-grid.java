@@ -18,7 +18,7 @@ class Solution {
                     return false;
             }
         }
-        int c=0, sum=Integer.MAX_VALUE;
+        int c=0;
         // Horizontally(rows)
         for(int i=row;i<=row+2;i++) {
             for(int j=col;j<=col+2;j++) 
