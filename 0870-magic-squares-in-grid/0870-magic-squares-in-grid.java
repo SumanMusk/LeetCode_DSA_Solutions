@@ -23,9 +23,7 @@ class Solution {
         for(int i=row;i<=row+2;i++) {
             for(int j=col;j<=col+2;j++) 
                 c += grid[i][j];
-            if(sum == Integer.MAX_VALUE) 
-                sum = c;
-            if(sum != c)
+            if(c != 15)
                 return false;
             c=0;
         }
@@ -33,21 +31,23 @@ class Solution {
         for(int i=col;i<=col+2;i++) {
             for(int j=row;j<=row+2;j++) 
                 c += grid[j][i];
-            if(sum != c)
+            if(c != 15)
                 return false;
             c=0;
         }
         int i=row, j=col;
+        // left to right Diagonal
         while(i <= row+2 && j <= col+2) 
             c += grid[i++][j++];
-        if(sum != c)
+        if(c != 15)
             return false;
         c=0;
         i=row;
         j=col+2;
+        // right to left Diagonal
         while(i <= row+2 && j >= col) 
             c += grid[i++][j--];
-        if(sum != c)
+        if(c != 15)
             return false;
         return true;
     }
