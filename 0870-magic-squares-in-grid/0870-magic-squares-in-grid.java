@@ -1,11 +1,10 @@
 class Solution {
     public int numMagicSquaresInside(int[][] grid) {
         int c=0;
-        for(int i=0;i<grid.length;i++) 
-            for(int j=0;j<grid[0].length;j++) 
-                if(i+2 < grid.length && j+2 < grid[0].length)
-                    if(helper(grid, i, j))
-                        c++;
+        for(int i=0;i<grid.length-2;i++) 
+            for(int j=0;j<grid[0].length-2;j++) 
+                if(helper(grid, i, j))
+                    c++;
         return c;
     }
     public boolean helper(int[][] grid, int row, int col) {
