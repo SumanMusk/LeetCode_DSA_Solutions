@@ -25,6 +25,7 @@
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -57,6 +58,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -193,6 +195,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
+| [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -205,6 +208,7 @@
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -218,6 +222,7 @@
 | [0127-word-ladder](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
+| [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -298,6 +303,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
+| [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
