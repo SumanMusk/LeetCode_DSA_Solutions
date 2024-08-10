@@ -1,5 +1,7 @@
 // Solved using "Kahn's Algorithm (Topological Sort using Kahn's Algorithm)"
 // If topological sort + Cycle check, then Kahn's Algo
+// Vdo : https://www.youtube.com/watch?v=tZjVTTABXV0
+// 2392. Build a Matrix With Conditions
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         Map<Integer, List<Integer>> adjLs = new HashMap<>();
