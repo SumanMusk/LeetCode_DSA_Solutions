@@ -194,6 +194,7 @@
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -309,4 +311,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
