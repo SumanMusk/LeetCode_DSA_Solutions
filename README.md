@@ -196,6 +196,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -223,6 +224,7 @@
 | [0127-word-ladder](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -231,6 +233,7 @@
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -248,6 +251,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -280,6 +284,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
