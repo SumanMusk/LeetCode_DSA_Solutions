@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
+| [1642-water-bottles](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -123,6 +124,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
+| [1642-water-bottles](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2645-pass-the-pillow) |
 ## Recursion
