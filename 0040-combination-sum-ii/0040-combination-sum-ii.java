@@ -11,7 +11,8 @@ class Solution {
         }
         else{
             for(int x=i;x<arr.length;x++){
-                if(x > i && arr[x-1] == arr[x]) continue;
+                if(x > i && arr[x-1] == arr[x])
+                    continue;
                 temp.add(arr[x]);
                 amtSfr += arr[x];
                 comb(arr, tar, ans, temp, amtSfr, x+1);
