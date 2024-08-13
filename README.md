@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -222,6 +223,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0136-single-number) |
 ## Breadth-First Search
 |  |
@@ -334,4 +336,5 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
