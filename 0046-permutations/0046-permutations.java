@@ -1,33 +1,31 @@
 class Solution {
-    public void swap(int a, int b, int arr[]){
-        int x = arr[a];
-        arr[a] = arr[b];
-        arr[b] = x;
-    }
-    public void permu(int arr[], int idx, List<List<Integer>> ls){
-        if(idx == arr.length) return;
-        else{
-            for(int i=0;i<arr.length-1;i++){
-                swap(i, idx, arr);
-                List<Integer> d = new ArrayList<>(){{for(int i: arr) add(i);}};
-                if(!ls.contains(d))
-                    ls.add(d);
-                permu(arr, idx+1, ls);
-                swap(i, idx, arr);
-            }
-        }
-    }
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        permu(nums, 1, ans);
-        if(ans.isEmpty()){
-            if(nums.length == 1)
-                ans.add(new ArrayList<>(){{for(int i: nums) add(i);}});
+        List<List<Integer>> ls = new ArrayList<>();
+        List<Integer> temp = new ArrayList<>();
+        if(nums.length == 1) {
+            temp.add(nums[0]);
+            ls.add(temp);
+            return ls;
         }
-        else{
-            if(nums.length == 2)
-                ans.add(new ArrayList<>(){{for(int i: nums) add(i);}});
+        helper(1, nums, ls);
+        return ls;
+    }
+    // For this question, because every List<Integer> of res will be the same length of arr.length, so we can just put every possible "arr" after swapping elements can be added after pre-existing checking in res List of list. Amdr base case satisfy hobar por base case r moddhe result array add na korleo cholbe
+    public void helper(int idx, int arr[], List<List<Integer>> res) {
+        if(idx == arr.length)
+            return;
+        for(int i=0;i<arr.length;i++) {
+            swap(i, idx, arr);
+            List<Integer> temp = new ArrayList<>(){{for(int i: arr) add(i);}};
+            if(!res.contains(temp))
+                res.add(temp);
+            helper(idx+1, arr, res);
+            swap(i, idx, arr);
         }
-        return ans;
+    }
+    public void swap(int i, int j, int arr[]) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
