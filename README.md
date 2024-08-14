@@ -26,6 +26,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0948-sort-an-array) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -209,6 +211,7 @@
 | [0332-reconstruct-itinerary](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -221,6 +224,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -239,6 +243,7 @@
 | [0210-course-schedule-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
@@ -267,6 +272,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -325,6 +331,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
