@@ -12,7 +12,7 @@ class Solution {
                         inHand_10_Bill--;
                         f=1;
                     }
-                    else if(inHand_5_Bill > 0 && temp-5 >= 0) {
+                    if(inHand_5_Bill > 0 && temp-5 >= 0) {
                         temp -= 5;
                         inHand_5_Bill--;
                         f=1;
