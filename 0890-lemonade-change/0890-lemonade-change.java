@@ -2,8 +2,7 @@ class Solution {
     public boolean lemonadeChange(int[] bills) {
         int inHand_5_Bill=0;
         int inHand_10_Bill=0;
-        int inHand_20_Bill=0;
-        int tenFlag=0, fiveFlag=0;
+        int f=0;
         for(int i: bills) {
             if(i > 5) {
                 int temp = i-5;
@@ -11,17 +10,16 @@ class Solution {
                     if(inHand_10_Bill > 0 && temp-10 >= 0) {
                         temp -= 10;
                         inHand_10_Bill--;
-                        tenFlag=1;
+                        f=1;
                     }
                     else if(inHand_5_Bill > 0 && temp-5 >= 0) {
                         temp -= 5;
                         inHand_5_Bill--;
-                        fiveFlag=1;
+                        f=1;
                     }
-                    if(tenFlag == 0 && fiveFlag == 0)
+                    if(f == 0)
                         return false;
-                    tenFlag=0;
-                    fiveFlag=0;
+                    f=0;
                 }
                 if(i == 10)
                     inHand_10_Bill++;
