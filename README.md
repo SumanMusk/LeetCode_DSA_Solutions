@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
@@ -106,6 +107,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
