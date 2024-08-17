@@ -30,32 +30,3 @@ class Solution {
         return res;
     }
 }
-/*
-// Brute Force
-class Solution {
-    public long maxPoints(int[][] points) {
-        long prev_Row[] = new long[points[0].length];
-        for(int i=0;i<points[0].length;i++) 
-            prev_Row[i] = points[0][i];
-        for(int i=1;i<points.length;i++) {
-            long[] tempArr = new long[points[0].length];
-            for(int j=0;j<points[0].length;j++) {
-                long maxVal = Integer.MIN_VALUE;
-                long curr_point = points[i][j];
-                for(int k=0;k<prev_Row.length;k++) {
-                    long val = (long)(curr_point + prev_Row[k]) - (long)Math.abs(j-k);
-                    if(maxVal < val) {
-                        maxVal = val;
-                        tempArr[j] = val;
-                    }
-                }
-            }
-            prev_Row = Arrays.copyOf(tempArr, points[i].length);
-        }
-        long res=0;
-        for(long i: prev_Row) 
-            res = Math.max(res, i);
-        return res;
-    }
-}
-*/
