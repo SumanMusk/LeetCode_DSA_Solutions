@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int nthUglyNumber(int n) {
         Queue<Long> minHeap = new PriorityQueue<>();
         minHeap.add((long)1);
@@ -23,8 +23,8 @@ class Solution {
         }
         return (int)res;
     }
-}
-/*
+}*/
+
 // Dp Approach
 class Solution {
     public int nthUglyNumber(int n) {
@@ -48,4 +48,3 @@ class Solution {
         return dp[n];
     }
 }
-*/
