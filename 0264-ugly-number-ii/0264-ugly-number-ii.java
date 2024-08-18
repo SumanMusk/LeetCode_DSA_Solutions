@@ -5,13 +5,12 @@ class Solution {
 
         Set<Long> visited = new HashSet<>();
 
-        int c=1;
         long res=0;
         long factors[] = {2,3,5};
 
-        while(c <= n) {
+        while(n > 0) {
             res = minHeap.poll();
-            c++;
+            n--;
 
             for(long i: factors) {
                 long temp = res * i;
