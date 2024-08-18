@@ -1,5 +1,33 @@
 class Solution {
     public int nthUglyNumber(int n) {
+        Queue<Long> minHeap = new PriorityQueue<>();
+        minHeap.add((long)1);
+
+        Set<Long> visited = new HashSet<>();
+
+        int c=1;
+        long res=0;
+        long factors[] = {2,3,5};
+
+        while(c <= n) {
+            res = minHeap.poll();
+            c++;
+
+            for(long i: factors) {
+                long temp = res * i;
+                if(!visited.contains(temp)) {
+                    minHeap.add(temp);
+                    visited.add(temp);
+                }
+            }
+        }
+        return (int)res;
+    }
+}
+/*
+// Dp Approach
+class Solution {
+    public int nthUglyNumber(int n) {
         int dp[] = new int[n+1];
         int i2=1, i3=1, i5=1;
         dp[1] = 1;
@@ -20,3 +48,4 @@ class Solution {
         return dp[n];
     }
 }
+*/
