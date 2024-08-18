@@ -63,6 +63,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1642-water-bottles) |
@@ -278,6 +280,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0744-network-delay-time](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0794-swim-in-rising-water) |
@@ -304,6 +307,7 @@
 | ------- |
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
