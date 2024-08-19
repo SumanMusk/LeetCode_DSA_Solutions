@@ -136,6 +136,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -309,6 +310,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
+| [0650-2-keys-keyboard](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1196-filling-bookcase-shelves) |
