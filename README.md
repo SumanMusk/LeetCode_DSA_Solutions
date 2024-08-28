@@ -65,6 +65,7 @@
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -136,6 +137,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0650-2-keys-keyboard](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1642-water-bottles) |
@@ -158,6 +160,7 @@
 | [0139-word-break](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0273-integer-to-english-words) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0647-palindromic-substrings](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0647-palindromic-substrings) |
 | [0726-number-of-atoms](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumanMusk/LeetCode_DSA_Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
